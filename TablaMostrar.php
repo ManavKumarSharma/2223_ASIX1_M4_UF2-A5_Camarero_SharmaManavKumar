@@ -172,6 +172,8 @@ if(isset($_POST['entrantes'])){
         
 }
 }
+
+echo "</div>";
 ?>
 </div>
     

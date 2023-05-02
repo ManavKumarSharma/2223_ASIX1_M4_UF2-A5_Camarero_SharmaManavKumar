@@ -7,9 +7,7 @@
 }
 
 body {
-    background-image: url(https://images.unsplash.com/photo-1589859762194-eaae75c61f64?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80);
-    background-size: cover;
-    background-position: center top;
+    background-color: rgb(106, 106, 223);
     
 }
 
@@ -49,9 +47,43 @@ img {
   }
 
 
+h1 {
+    font-size: 4vw;
+}
 
-@media only screen and (max-width: 600px) {
+p {
+    font-size: 1.1vw;
+    text-align: center;
+}
 
 
+@media only screen and (max-width: 700px) {
+    
+.contenido-carta {
+    display: block;
+    justify-content: center;
+    align-items: center;
+     margin: 2vw;
+    
+    }
+.contenedor-comida {
+    justify-content: right;
+}
+
+p {
+    font-size: 60%;
+}
+
+.responsive-design  {
+    display: flex;
+}
+
+.contenido-carta {
+    size-adjust: calc(1px+1vw);
+}
+
+h6 {
+    font-size: 80%;
+}
 
 }
