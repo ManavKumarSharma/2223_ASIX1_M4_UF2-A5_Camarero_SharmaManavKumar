@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<platos>
+    <entrante>
+        <imagen>https://www.conmuchagula.com/wp-content/uploads/2021/08/bravas.jpg</imagen>
+        <title>TAPA BRAVAS CON DOS SALSAS</title>
+        <description>Tapa de patatas bravas acompañadas con salsas bravas y alioli.</description>
+        <precio>4,90€</precio>
+        <cal>100cal</cal>
+    </entrante>
+    <entrante>
+        <imagen>https://www.barlabarretina.com/assets/base/img/content/products/TAP04258fd1daddc222.jpg</imagen>
+        <title>TAPA MORROS</title>
+        <description>Tapa de morros fritos salpimentado y con una rodaja de limón.</description>
+        <precio>5,90€</precio>
+        <cal>120cal</cal>
+    </entrante>
+    <entrante>
+        <imagen>https://frankfurtlacanicaazul.com/wp-content/uploads/2020/11/tapa-patatas-fritas1-700x526.jpg</imagen>
+        <title>TAPA DE FRITAS</title>
+        <description>Tapa de patatas fritas.</description>
+        <precio>3,90€</precio>
+        <cal>80cal</cal>
+        
+    </entrante>
+    <entrante>
+        <imagen>https://gourmet.expob2b.es/uploads/fotos_noticias/2019/07/w800px_19820-159028-nuestras-tapas-calamares-a-la-andaluza.jpg</imagen>
+        <title>TAPA DE DE CALAMARES</title>
+        <description>Tapa de aros de calamares con una rodaja de limón.</description>
+        <precio>5,90€</precio>
+        <cal>140cal</cal>
+        <ingredientes>pescado</ingredientes>
+        <ingredientes>con gluten</ingredientes>
+    </entrante>
+    <entrante>
+        <imagen>https://lacocinadefrabisa.lavozdegalicia.es/wp-content/uploads/2019/05/tortilla-espa%C3%B1ola.jpg</imagen>
+        <title>TAPA DE TORTILLA DE PATATAS</title>
+        <description>Tapa pequeña de tortilla de patatas.</description>
+        <precio>5,90€</precio>
+        <cal>150cal</cal>
+    </entrante>
+    <entrante>
+        <imagen>https://cope-cdnmed.agilecontent.com/resources/jpg/7/8/1619524932687.jpg</imagen>
+        <title>TAPA DE CROQUETAS</title>
+        <description>Tapa de croquetas 5u. de jamón o pollo (a elegir).</description>
+        <precio>4,90€</precio>
+        <cal>110cal</cal>
+    </entrante>
+    <entrante>
+        <imagen>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Pan_con_Tumaca.jpg/800px-Pan_con_Tumaca.jpg</imagen>
+        <title>PAN CON TOMATE</title>
+        <description>Pan embarnizado con tomate casero.</description>
+        <precio>3,90€</precio>
+        <cal>75cal</cal>
+        <ingredientes>con gluten</ingredientes>
+    </entrante>
+    <entrante>
+        <imagen>https://www.estovadetapas.com/wp-content/uploads/2018/01/queso-en-aceite-con-pan-y-romero.jpg</imagen>
+        <title>TAPA DE QUESOS</title>
+        <description>Tapa de surtido de quesos.</description>
+        <precio>6,90€</precio>
+        <cal>87cal</cal>
+    </entrante>
+    <primero>
+        <multititles>
+            <opcion>PAELLA MIXTA</opcion>
+            <imagen>https://img-global.cpcdn.com/recipes/152d87bfdfda7dfb/1200x630cq70/photo.jpg</imagen>
+            <description>Paella mixta de pollo, ternera, conejo, champiñones, espárragos, pimiento y calabacín.</description>
+            <precio>18,00€</precio>
+            <cal>900cal</cal>
+            <ingredientes>carne</ingredientes>
+        </multititles>
+        <multititles>
+            <opcion>PAELLA DE POLLO</opcion>
+            <imagen>https://s1.abcstatics.com/media/gurmesevilla/2016/06/paelladepollo.jpg</imagen>
+            <description>Paella de pollo, cebolla, pimiento rojo y verde, ajo, tomate, guisantes y judías verdes.</description>
+            <precio>16,00€</precio>
+            <cal>875cal</cal>
+            <ingredientes>carne</ingredientes>
+        </multititles>
+        <multititles>
+            <opcion>PAELLA DE CONEJO</opcion>
+            <imagen>https://content-cocina.lecturas.com/medio/2019/02/08/arroz_de_conejo_y_pollo_y_tomates_verdes_fritos_e95b866b_800x800.jpg</imagen>
+            <description>Pella de conejo, caldo de pollo, cebolla, ajo, pimiento, tomate, guisantes y judías verdes.</description>
+            <precio>17,00€</precio>
+            <cal>850cal</cal>
+            <ingredientes>carne</ingredientes>
+        </multititles>
+        <multititles>
+            <opcion>PAELLA DE VERDURAS</opcion>
+            <imagen>https://2.bp.blogspot.com/-Y6aae0m0gGc/XM7pOcq5BqI/AAAAAAACQUI/mr2kaH0GqUQMR6gCg8p6Q0WDil-OgWb3QCLcBGAs/s1600/paella%2Bde%2Bverdura%2B%25286%2529.JPG</imagen>
+            <description>Paella de pimiento rojo y verde, cebolla, ajo, tomate, alcachofas, judías verdes, guisantes y habas.</description>
+            <precio>15,00€</precio>
+            <cal>785cal</cal>
+            <ingredientes>vegetal</ingredientes>
+        </multititles>
+        <multititles>
+            <opcion>PAELLA DE MARISCOS</opcion>
+            <imagen>https://cdn1.cocina-familiar.com/recetas/paella-de-marisco-receta-de-javier-romero.JPG</imagen>
+            <description>Pella de mariscos: camarones, mejillones, calamares, langostinos y pulpo.</description>
+            <precio>15,00€</precio>
+            <cal>800cal</cal>
+            <ingredientes>pescado</ingredientes>
+        </multititles>
+    </primero>
+    <segundo>
+        <multititles>
+            <opcion>HAMBURGUESA CLÁSICA</opcion>
+            <imagen>https://assets.unileversolutions.com/recipes-v2/218401.jpg</imagen>
+            <description>Pan de hamburguesa, carne de res, queso cheddar, lechuga, tomate, cebolla y salsa kétchup/mostaza/mayo.</description>
+            <precio>10,00€</precio>
+            <cal>800cal</cal>
+            <ingredientes>carne</ingredientes>
+            <ingredientes>con gluten</ingredientes>
+        </multititles>
+        <multititles>
+            <opcion>HAMBURGUESA BBQ</opcion>
+            <imagen>https://cerrajerosbaratos.org/wp-content/uploads/2021/07/hamburguesas-barbacoa.jpg</imagen>
+            <description>Pan de hamburguesa, carne de res, queso americano, tocino, cebolla caramelizada, lechuga, tomate y salsa BBQ.</description>
+            <precio>12,00€</precio>
+            <cal>850cal</cal>
+            <ingredientes>carne</ingredientes>
+            <ingredientes>con gluten</ingredientes>
+        </multititles>
+        <multititles>
+            <opcion>HAMBURGUESA MEXICANA</opcion>
+            <imagen>https://cdn0.recetasgratis.net/es/posts/6/1/2/hamburguesa_mexicana_12216_600.jpg</imagen>
+            <description>Pan de hamburguesa, carne de res sazonada con especias mexicanas, guacamole, jalapeños, tomate, lechuga y salsa picante.</description>
+            <precio>12,00€</precio>
+            <cal>790cal</cal>
+            <ingredientes>carne</ingredientes>
+            <ingredientes>con gluten</ingredientes>
+        </multititles>
+        <multititles>
+            <opcion>HAMBURGUESA VEGETARIANA</opcion>
+            <imagen>https://www.pequerecetas.com/wp-content/uploads/2009/04/hamburguesa-de-garbanzos-casera-receta.jpg</imagen>
+            <description>Pan de hamburguesa integral, hamburguesa vegetariana, queso feta, espinacas frescas, aguacate y salsa de yogur.</description>
+            <precio>10,00€</precio>
+            <cal>750cal</cal>
+            <ingredientes>vegetal</ingredientes>
+            <ingredientes>con gluten</ingredientes>
+        </multititles>
+        <multititles>
+            <opcion>HAMBURGUESA CON HUEVO</opcion>
+            <imagen>https://s3.abcstatics.com/media/gurmesevilla/2010/08/hamburguesa-huevo.jpg</imagen>
+            <description>Pan de hamburguesa, carne de res, queso suizo, huevo frito, tocino, lechuga, tomate y salsa tártara.</description>
+            <precio>11,00€</precio>
+            <cal>780cal</cal>
+            <ingredientes>carne</ingredientes>
+            <ingredientes>con gluten</ingredientes>
+        </multititles>
+    </segundo>
+    <postre>
+        <multititles>
+            <opcion>FLAN</opcion>
+            <imagen>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM1oC2GcSEXeQOQd0P8KlNvpIqMIxNnqsEwOZ470cYGVCfepzo1IF2rfHGp9JtFajz9JVCtiC_6Ot4S-ECmhQkK0OecfpPSqR6mX67AXay0e7jrnTU2ilDKr_NvNhohTz9RrsGabXi3tuOofcCI_rlf9iMG0n819BVoqVRPm1mOcZ2CBuRREMNjxL_Ow/s1600/flan-queso-crema-receta.JPG</imagen>
+            <description>Tarta flan de queso crema.</description>
+            <precio>8,00€</precio>
+            <cal>299cal</cal>
+            <ingredientes>con gluten</ingredientes>
+        </multititles>
+        <multititles>
+            <opcion>CREMA CATALANA</opcion>
+            <imagen>https://www.frutamare.com/wp-content/uploads/2020/03/crema_catalana.jpg</imagen>
+            <description>Yema de huevo, azúcar, harina de trigo o harina de maíz y leche aromatizada con canela y piel de limón.</description>
+            <precio>8,00€</precio>
+            <cal>350cal</cal>
+            <ingredientes>con gluten</ingredientes>
+        </multititles>
+        <multititles>
+            <opcion>ARROZ CON LECHE</opcion>
+            <imagen>https://www.hogarmania.com/archivos/202203/arroz-con-leche-1280x720x80xX.jpg</imagen>
+            <description>Arroz cocido en leche con azúcar, canela y pasas.</description>
+            <precio>8,00€</precio>
+            <cal>300cal</cal>
+        </multititles>
+        <multititles>
+            <opcion>BOÑUELOS</opcion>
+            <imagen>https://cdn0.recetasgratis.net/es/posts/6/8/0/bunuelos_de_naranja_74086_orig.jpg</imagen>
+            <description>Mezcla de harina de trigo, huevo, agua, sal y manteca de cerdo.</description>
+            <precio>8,00€</precio>
+            <cal>200cal</cal>
+            <ingredientes>con gluten</ingredientes>
+        </multititles>
+        <multititles>
+            <opcion>POLVORONES</opcion>
+            <imagen>https://media.mykaramelli.com/galeria/recetas/receta-de-polvorones-caseros_438_1.jpg</imagen>
+            <description>Torta de harina, manteca y azúcar, cocida en horno fuerte.</description>
+            <precio>8,00€</precio>
+            <cal>200cal</cal>
+            <ingredientes>con gluten</ingredientes>
+        </multititles>
+    </postre>
+    <bebida>
+        <multititles>
+            <opcion>AGUA 750ML</opcion>
+            <imagen>https://www.alternatur.es/wp-content/uploads/2021/09/2500000750-100_-AGUA-DE-MAR-cristal-750-ml.jpg</imagen>
+            <precio>2,50€</precio>
+            <cal>0cal</cal>
+        </multititles>
+        <multititles>
+            <opcion>CERVEZA</opcion>
+            <imagen>https://imagenes.20minutos.es/files/og_thumbnail/uploads/imagenes/2023/04/21/cerveza.jpeg</imagen>
+            <precio>3,50€</precio>
+            <cal>350cal</cal>
+        </multititles>
+        <multititles>
+            <opcion>COCA-COLA</opcion>
+            <imagen>https://www.cocacola.es/content/dam/one/es/es2/coca-cola/products/productos/dic-2021/CC_Origal.jpg</imagen>
+            <precio>3,00€</precio>
+            <cal>200cal</cal>
+        </multititles>
+        <multititles>
+            <opcion>FANTA</opcion>
+            <imagen>https://www.bahiaprincipecongelados.com/fotos/reducidas/800-fanta-naranja-237-ml-cristal-1-5585.jpg</imagen>
+            <precio>3,00€</precio>
+            <cal>200cal</cal>
+        </multititles>
+    </bebida>
+</platos>
